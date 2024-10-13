@@ -106,3 +106,7 @@ uploads/
 
 # owner
 release/
+
+# ssl
+*.crt
+*.key
